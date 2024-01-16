@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;"> What's up?</h1>
 
 ###
 
