@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://i.ibb.co/WBGhLd4/pikachu-pokemon.gif" alt="Computer man" style="width:82px; height:72px; margin-top: 25px"> What's up?</h1>
+<h1 align="left">Hey <img src="https://i.ibb.co/WBGhLd4/pikachu-pokemon.gif" alt="Computer man" style="width:52px; height:42px; margin-top: 25px"> What's up?</h1>
 
 ###
 
